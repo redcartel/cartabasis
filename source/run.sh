@@ -1,8 +1,7 @@
 #! /bin/sh
 
-ip="142.93.248.191"
+ip="142.93.240.71"
 username="testuser"
-password="testpassword314159"
 
 # CREATE USER
 
